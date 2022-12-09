@@ -316,9 +316,9 @@ ul {
 
 a:hover {
     /* Set links to change color when they are hovered over */
-
+    color: #f2644f;
     /* Set cursor to pointer */
-
+    cursor: pointer;
 }
 
 .spotlight-item-sm {
