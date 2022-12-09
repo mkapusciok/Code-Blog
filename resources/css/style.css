@@ -269,7 +269,7 @@ ul {
     /* Set letter-spacing to 1.2 */
     letter-spacing: 1.2;
     /* Change text-align to left */
-    text-align: justify;
+    text-align: left;
 
     overflow: hidden;
 }
