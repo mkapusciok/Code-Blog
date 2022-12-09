@@ -376,7 +376,7 @@ input:focus {
     .spotlight-list {
         display: flex;
         /* Change flex-direction to match HTML content order */
-        flex-direction: column-reverse;
+        flex-direction: column;
         height: 100%;
         margin: 0;
         padding: 0;
