@@ -332,7 +332,7 @@ nav select {
 input:focus {
     outline: none;
     /* Set solid border of size 1px and of color of your choice */
-
+    border: solid 1px #f2644f;
 }
 
 .premium {
